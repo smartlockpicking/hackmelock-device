@@ -1,0 +1,13 @@
+{
+  "name": "hackmelock",
+  "version": "0.0.3",
+  "description": "Bluetooth Smart HackmeLock - emulator device",
+  "main": "peripheral.js",
+  "author": "Slawomir Jasek, hackmelock@smartlockpicking.com",
+  "license": "MIT",
+  "dependencies":{
+  "bleno": "^0.4.0",
+  "async": "^2.0.1",
+  "colors": "^1.1.2"
+  }
+}
