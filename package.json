@@ -1,6 +1,6 @@
 {
   "name": "hackmelock",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Bluetooth Smart HackmeLock - emulator device",
   "main": "peripheral.js",
   "author": "Slawomir Jasek, hackmelock@smartlockpicking.com",

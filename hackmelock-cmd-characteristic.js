@@ -6,6 +6,7 @@ var colors = require('colors')
 var cmdOpenLock = "aa010203040506070809101112131415";
 var cmdCloseLock = "bb010203040506070809101112131415";
 var cmdDataTransfer = "01aa0203040506070809101112131415";
+var cmdInitConfigMode = "dd010203040506070809101112131415";
 var cmdLogin = "ddaaff03040506070809101112131415";
 
 var statusAuthenticated = "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA";
